@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CnmAlper
+- 👋 Hi, I’m Alper Canimoglu
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python, C++ and HTML&CSS.
