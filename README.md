@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alper Canimoglu
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python, C++ and HTML&CSS.
+- {💯} I want to share my projects with you.
 - 📫 How to reach me =} canimoglu185@gmail.com
 
 <!---
