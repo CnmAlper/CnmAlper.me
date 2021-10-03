@@ -1,6 +1,7 @@
+### Hi There! 👋
 - 👋 Hi, I’m Alper Canimoglu
 - 👀 I’m interested in Machine Learning and Artificial Intelligence,
-- 🌱 I’m currently learning Python and C++,
+- 🌱 I’m currently learning Python and C++, MySQL, NoSQL.
 - {💯} I want to share my projects with you,
 - 📫 How to reach me =} canimoglu185@gmail.com
 
