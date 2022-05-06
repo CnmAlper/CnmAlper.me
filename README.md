@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CnmAlper&show_icons=true&theme=tokyonight)
 
-- 📄 Know about my me [https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing](https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing](https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing)
 
 <p align="left">
 </p>
