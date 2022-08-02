@@ -1,4 +1,4 @@
-### Heyyyyy! 👋😜
+### Heyy! 👋😜
 ![BurhanAltıntopGIF (2)](https://user-images.githubusercontent.com/79938189/164998674-6d5536bc-9377-4c62-b2c5-d785a1042a95.gif) 
 
 - 🙋‍♂️ Hi, I’m Alper Canimoglu,
