@@ -6,7 +6,7 @@
 - 🚀I’m currently learning Python, SQL and Matlab,
 - 🧩I want to share my projects with you,
 - 📫 How to reach me =} canimoglu185@gmail.com
-- 📃 Know about me [https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing](https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing)
+- 📃 Know about me [https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing](https://drive.google.com/file/d/1TNoBXoR4u7hdIGC2Pr7R5B_9AIMwXV5-/view?usp=sharing)
 
 <!---
 CnmAlper/CnmAlper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
