@@ -2,7 +2,7 @@
 ![BurhanAltıntopGIF (2)](https://user-images.githubusercontent.com/79938189/164998674-6d5536bc-9377-4c62-b2c5-d785a1042a95.gif) 
 
 - 🙋‍♂️ Hi, I’m Alper Canimoglu,
-- 🚀I’m currently learning Python, Swift () and SQL,
+- 🚀I’m currently learning Python, Swift  and SQL,
 - 🧩I want to share my projects with you,
 - 📫 How to reach me =} canimoglu185@gmail.com
 - 📃 Know about me [https://drive.google.com/file/d/14iGoUQZqwy_kDjdwH0lo7EZL7ioe192N/view?usp=sharing](https://drive.google.com/file/d/1Do4-q_3EcTLqLA1d-65Y_2I2DIoZIpK-/view?usp=sharing)
