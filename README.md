@@ -1,6 +1,6 @@
 ### Heyy! 👋😜
 
-<p><img align="left" src="https://github.com/cnmalper/CnmAlper/blob/main/github_gif.gif" width="400" height="300"/></p>
+![github_gif](https://user-images.githubusercontent.com/79938189/198250128-73df512d-63bd-4ea8-b730-a51fbe59a868.gif)
 
 - 🙋‍♂️ Hi, I’m Alper Canimoglu,
 - 🚀I’m currently learning Python, Swift  and SQL,
