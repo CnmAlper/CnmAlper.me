@@ -1,4 +1,4 @@
-# Heyy!👋 I am Alper Canimoglu.
+# Heyy!👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=F77746&width=435&lines=Jr.+iOS+Developer)](https://git.io/typing-svg)
 
