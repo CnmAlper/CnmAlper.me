@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning Python, Swift ,
 - 🧩 I want to share my projects with you,
-- 📫 How to reach me =} canimoglu185@gmail.com
+- 📫 How to reach me =} https://t.co/mCl0CSu2AT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
