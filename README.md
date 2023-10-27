@@ -6,8 +6,8 @@
 
 - 🚀 I’m currently learning Python, Swift ,
 - 🧩 I want to share my projects with you,
-- 📫 How to reach me =} https://t.co/mCl0CSu2AT
-
+- 📫 How to reach me -> https://t.co/mCl0CSu2AT
+- 🏳️ Flagy - Flags of the World -> https://apps.apple.com/tr/app/flagy-flags-of-the-world/id6457546582
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cnmalper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cnmalper" height="30" width="40" /></a>
