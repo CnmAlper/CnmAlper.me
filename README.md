@@ -1,7 +1,7 @@
 ## Heyy!👋 I am Alper Canimoglu.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=32&pause=1000&color=F70000FF&width=435&lines=Jr.+iOS+Developer)](https://git.io/typing-svg)
-![burhan-altıntop](https://user-images.githubusercontent.com/79938189/198251000-c64ff7fb-d049-400b-87d2-6faadc27e588.gif)
+![burhan-altıntop](https://img-s1.onedio.com/id-5eb91b32217fc8db120268f6/rev-0/w-600/h-232/f-gif/s-50f233a4d7b366560d97bb4908a1a06ea4bb6670.gif)
 
 - 🚀 I’m currently learning Python, Swift ,
 - 🧩 I want to share my projects with you,
