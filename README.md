@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently learning Python, Swift ,
 - 🧩 I want to share my projects with you,
-- 📫 How to reach me -> https://t.co/mCl0CSu2AT
+- 📫 How to reach me -> https://bento.me/cnmalper
 - 🏳️ Flagy - Flags of the World -> https://apps.apple.com/tr/app/flagy-flags-of-the-world/id6457546582
 <h3 align="left">Connect with me:</h3>
 <p align="left">
