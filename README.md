@@ -51,10 +51,10 @@
   <a href="https://www.instagram.com/cnmalperr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="alpercanimoglu" target="_blank">
+  <a href="https://discord.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="canimoglu185@gmail.com" target="_blank">
+  <a href="www.gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/canimoglualper" target="_blank">
