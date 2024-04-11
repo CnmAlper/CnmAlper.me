@@ -13,6 +13,12 @@
 
 ###
 
+###
+
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
@@ -50,12 +56,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/cnmalper/count.svg?"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/cnmalperr/" target="_blank">
